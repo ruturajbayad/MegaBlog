@@ -25,7 +25,7 @@ Mega Blog is a full-stack web application built with React and Vite on the front
 ## Home Page Without Login
 <img width="960" alt="HomePage" src="https://github.com/ruturajbayad/MegaBlog/assets/109090403/807c3020-e1b6-4433-9518-781d89a01f37">
 
-## Afert Loagin 
+## Afert Login 
 <img width="960" alt="AfterLogin" src="https://github.com/ruturajbayad/MegaBlog/assets/109090403/6ba8a9bd-553c-49ee-bfd0-329ded68a85a">
 
 ## "Function Over Fashion: Where Features Shine, Style Takes a Backseat." ✨🛠️
